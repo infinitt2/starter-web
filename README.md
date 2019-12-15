@@ -12,10 +12,8 @@ demos for learning
 
 ## Deployment
 
-deploying project on the web
+Deploying project on the web
 
 ## Description
 
-Detailed description about file
-
-
+Detailed description of file
